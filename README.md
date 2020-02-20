@@ -1,4 +1,4 @@
-## Gow to run
+## How to run
 #### AWS URL
 Open [http://demo-7news.s3-website-ap-southeast-2.amazonaws.com/test2]http://demo-7news.s3-website-ap-southeast-2.amazonaws.com/test2) to view it in the browser.
 
